@@ -1,4 +1,4 @@
-# cadastro-usuario# 
+# cadastro-usuario
 A aplicação consiste em um sistema de cadastro de usuários.
 
 # Sobre o projeto
